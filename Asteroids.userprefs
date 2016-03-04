@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\AsteroidSpawner.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AsteroidSpawner.cs" Line="48" Column="1" />
+      <File FileName="Assets\Scripts\Bullet.cs" Line="54" Column="1" />
+      <File FileName="Assets\Scripts\Ship.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\Jason\Desktop\Game Programming\Asteroids\Assets\Ship.cs" line="92" column="1" />
+      <Breakpoint file="C:\Users\Jason\Desktop\Game Programming\Asteroids\Assets\Scripts\Bullet.cs" line="17" column="1" />
+      <Breakpoint file="C:\Users\Jason\Desktop\Game Programming\Asteroids\Assets\Scripts\AsteroidSpawner.cs" line="38" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
